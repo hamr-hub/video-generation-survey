@@ -16,6 +16,10 @@
 | [06 · 最低硬件门槛](docs/06-minimum-hardware.md) | 显存阶梯账（含真实权重字节数） |
 | [07 · 结论与选型](docs/07-conclusions.md) | 场景→模型推荐、架构趋势 |
 | [08 · 架构演进前景](docs/08-future-directions.md) | 混合注意力、扩散↔AR融合、世界模型、流式、边缘 |
+| [09 · Agent 驱动视频生成](docs/09-agent-driven-video.md) | Agent 六层链路、RSI、未来3年路线与治理 |
+| [10 · 工程实践指南](docs/10-engineering-build-guide.md) | 分层栈、路线A/B、内存/量化/并行/评测、交付节奏 |
+| [11 · 价值论](docs/11-values-and-perspective.md) | 真实/认知/劳动/艺术/社会/权力/存在/环境/文化，十条价值维度 |
+| **[Theory · 核心公式推导](docs/theory/)** | 扩散/Score/Flow、注意力数学、蒸馏与AR统一 |
 | **[Deep Dive · 五方向论文深挖](docs/deep-dive/)** | 注意力 / AR融合 / 多模态VAE / 世界模型 / 推理加速 |
 
 ## 一页速查：当前开源格局（2026-10）
